@@ -57,6 +57,13 @@ def evaluate(model, loader):
 ## Results
 - Training and testing accuracy is printed during training.
 
+![image](https://github.com/user-attachments/assets/619ed5e3-b123-4a6b-9296-c8fbd16923c9)
+
+![image](https://github.com/user-attachments/assets/1a0f6a2f-c40d-425f-b579-5053d3ccd9e3)
+
+![image](https://github.com/user-attachments/assets/9e0923ae-256a-4729-9ca5-5a3c45d80384)
+
+
 ## License
 This project is open-source under the MIT License.
 
