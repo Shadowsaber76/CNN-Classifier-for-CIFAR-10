@@ -32,8 +32,8 @@ ds = load_dataset("uoft-cs/cifar10")
 ```
 
 ## Usage
-Run the training script
-Modify the `num_epochs` parameter in the script to adjust training duration.
+- Run the training script
+- Modify the `num_epochs` parameter in the script to adjust training duration. (Genrally more the number of epochs better is the Train Accuracy but extreme number of epochs can cause overfitting leading to dip in Test Accuracy)
 
 ## Evaluation
 The script evaluates the model after each epoch using accuracy and F1-score:
