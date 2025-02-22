@@ -10,8 +10,8 @@ A Convolutional Neural Network (CNN) is a deep learning model designed for image
 - **Data Augmentation**: Random horizontal flip, random cropping
 - **CNN Architecture**:
   - Three convolutional layers with increasing filters (64, 128, 256)
-  - Max pooling and ReLU activation
-  - Dropout for regularization
+  - Max pooling(Downsampling) and ReLU activation(For faster training and non-linearity)
+  - Dropout for regularization(To prevent Overfitting)
   - Fully connected layers with softmax output
 - **Optimization**:
   - Adam optimizer with weight decay
