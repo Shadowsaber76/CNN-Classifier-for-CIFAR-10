@@ -63,6 +63,7 @@ def evaluate(model, loader):
 
 ![image](https://github.com/user-attachments/assets/9e0923ae-256a-4729-9ca5-5a3c45d80384)
 
+Made with ❤️ by Gaurav
 
 ## License
 This project is open-source under the MIT License.
