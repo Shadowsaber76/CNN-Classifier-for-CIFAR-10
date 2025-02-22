@@ -66,10 +66,11 @@ def evaluate(model, loader):
 Made with ❤️ by Gaurav <br />
 Please ignore the dataset import warning.
 
+## Contact
+For any issues please reach out to [Gaurav Sonawane](mailto:f20241310@pilani.bits-pilani.ac.in?subject=[GitHub]%20CNN%20Classifier)
+
 ## License
 This project is open-source under the MIT License.
 
-## Contact
-For any issues please reach out to [Gaurav Sonawane](mailto:f20241310@pilani.bits-pilani.ac.in?subject=[GitHub]%20CNN%20Classifier) <br />
-F20241310
+
 
