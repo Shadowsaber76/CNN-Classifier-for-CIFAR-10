@@ -56,7 +56,6 @@ def evaluate(model, loader):
 
 ## Results
 - Training and testing accuracy is printed during training.
-- The model achieves competitive performance on CIFAR-10.
 
 ## License
 This project is open-source under the MIT License.
